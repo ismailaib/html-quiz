@@ -211,3 +211,15 @@ body {
 .quiz-app .bottom .bullets .spans .on{
 	background-color: #39bda7;
 }
+.quiz-app .results span{
+  font-weight: bold;
+}
+.quiz-app .results span.bad{
+  color: #dc0a0a;
+}
+.quiz-app .results span.good{
+  color: #c5772e;
+}
+.quiz-app .results span.perfect{
+  color: #7fd8ae;
+}
