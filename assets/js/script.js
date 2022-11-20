@@ -186,7 +186,6 @@ function showResults(count) {
 
     resultsContainer.innerHTML = theResults;
     resultsContainer.style.padding = "10px";
-    resultsContainer.style.backgroundColor = "white";
     resultsContainer.style.marginTop = "10px";
   }
 }
