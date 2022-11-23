@@ -70,5 +70,45 @@
       "answer_3": "<div class=\"class-name\">",
       "answer_4": "All Is Right",
       "right_answer": "All Is Right"
+    },
+    {
+      "title": "Inside which HTML element do we put the JavaScript <...> ?",
+      "answer_1": "script",
+      "answer_2": "js",
+      "answer_3": "scripting",
+      "answer_4": "javascript",
+      "right_answer": "script"
+    },
+    {
+      "title": "Cascading Style sheet stands for?",
+      "answer_1": "HTML",
+      "answer_2": "JQuery",
+      "answer_3": "CSS",
+      "answer_4": "XML",
+      "right_answer": "CSS"
+    },
+    {
+      "title": "Which is a JavaScript Framework?",
+      "answer_1": "React",
+      "answer_2": "Laravel",
+      "answer_3": "Django",
+      "answer_4": "Sass",
+      "right_answer": "React"
+    },
+    {
+      "title": "Which is a JavaScript Framework?",
+      "answer_1": "React",
+      "answer_2": "Laravel",
+      "answer_3": "Django",
+      "answer_4": "Sass",
+      "right_answer": "React"
+    },
+    {
+      "title": "Which is a backend language?",
+      "answer_1": "PHP",
+      "answer_2": "HTML",
+      "answer_3": "React",
+      "answer_4": "All",
+      "right_answer": "PHP"
     }
   ]
